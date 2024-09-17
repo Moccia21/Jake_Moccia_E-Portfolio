@@ -219,8 +219,7 @@ nav {
 
 .about-me__img--container {
     flex: 1;
-    display: flex;
-    justify-content: center;
+    display: flex;  
     align-items: center;
 }
 
